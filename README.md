@@ -1,2 +1,3 @@
-# stringmanipulation
-Swift coding challenges on string manipulation
+# String Manipulation Challenges
+ 
+
