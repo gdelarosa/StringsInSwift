@@ -1,5 +1,5 @@
 # String Manipulation Challenges 🚀
-This repo consists of common string challenges that may appear during an iOS interview. They're helpful if you're sharpening your Swift skills and fun to do! *Last updated February 5, 2021.* 
+This repo consists of common string challenges that may appear during an iOS interview. They're helpful if you're sharpening your Swift skills and fun to do! *Last updated - February 5, 2021.* 
  
  ![Playgrounds GIF](https://media.giphy.com/media/l41YgDnHkMxVls4P6/giphy.gif)
   
