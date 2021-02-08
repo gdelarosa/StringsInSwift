@@ -10,7 +10,6 @@ This repo consists of common string challenges that may appear during an iOS int
  * Remove a specific character
  * Remove duplicate letters
  
- * Reverse characters
  * Reverse a given word
  
  * Rotate string right by n characters
