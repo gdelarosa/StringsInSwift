@@ -1,5 +1,5 @@
 # String Manipulation Challenges 🚀
-This repo consists of common string challenges that may appear during an iOS interview. They're helpful if you're sharpening your Swift skills and fun to do! *Last updated - February 5, 2021.* 
+This repo consists of common string challenges that may appear during an iOS interview. They're helpful if you're sharpening your Swift skills and fun to do! *Last updated - February 8, 2021.* 
  
  ![Playgrounds GIF](https://media.giphy.com/media/l41YgDnHkMxVls4P6/giphy.gif)
   
@@ -19,7 +19,7 @@ This repo consists of common string challenges that may appear during an iOS int
  * Determine if string is a palindrome
  * Determine if two strings are an anagram
  * Determine if letters in a string are unique
- * Determine if one string contains another string
+ * Determine if two strings contain the same characters
  * Determine if a string has digits
  * Determine if two strings are identical in length but have no more than three different letters
  * Determine if one string is a rotation of another
